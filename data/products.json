@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Roman Coin Earrings",
+    "price": 145,
+    "images": ["earring1.jpg"],
+    "category": "jewelry",
+    "description": "Elegant earrings inspired by ancient Roman coins. Crafted with antique detailing and a timeless aesthetic."
+  },
+  {
+    "id": "2",
+    "title": "Eye Pendant Necklace",
+    "price": 179,
+    "images": ["necklace1.jpg", "necklace1-2.jpg"],
+    "category": "jewelry",
+    "description": "A delicate necklace featuring a mystical eye pendant, symbolizing protection and insight."
+  },
+  {
+    "id": "3",
+    "title": "Neutral Parfum",
+    "price": 129,
+    "images": ["perfume1.jpg"],
+    "category": "fragrance",
+    "description": "A genderless fragrance with earthy undertones and subtle floral highlights. Made for everyday elegance."
+  },
+  {
+    "id": "4",
+    "title": "All Seeing Eye Ring",
+    "price": 169,
+    "images": ["ring1.jpg"],
+    "category": "jewelry",
+    "description": "Bold ring with an engraved all-seeing eye motif. A statement piece with esoteric flair."
+  },
+  {
+    "id": "5",
+    "title": "Double Snake Ring",
+    "price": 159,
+    "images": ["ring2.jpg"],
+    "category": "jewelry",
+    "description": "Two intertwined snakes form the band of this detailed silver ring — a symbol of transformation and duality."
+  },
+  {
+    "id": "6",
+    "title": "Skull & Palm Ring",
+    "price": 139,
+    "images": ["ring3.jpg"],
+    "category": "jewelry",
+    "description": "An edgy ring combining palmistry symbolism and skull detail — perfect for the bold and curious."
+  },
+  {
+    "id": "7",
+    "title": "NYC Caps",
+    "price": 100,
+    "images": ["cap1.jpg"],
+    "category": "apparel",
+    "description": "Classic baseball-style caps with NYC embroidery. Designed for urban explorers and city dwellers."
+  },
+  {
+    "id": "8",
+    "title": "Poison Cigarette Case",
+    "price": 30,
+    "images": ["cigarettecase.jpg"],
+    "category": "objects",
+    "description": "Vintage-inspired cigarette case featuring a 'Poison' label. A tongue-in-cheek twist on classic accessories."
+  },
+  {
+    "id": "9",
+    "title": "Kerosene Lighter",
+    "price": 25,
+    "images": ["lighter1.jpg"],
+    "category": "objects",
+    "description": "Retro-style kerosene lighter with industrial vibes. Functional, collectible, and undeniably cool."
+  }
+]
